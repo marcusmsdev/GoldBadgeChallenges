@@ -1,0 +1,6 @@
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsRepo\bin\Debug\ChallengeClaimsTwoRepo.dll
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsRepo\bin\Debug\ChallengeClaimsTwoRepo.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsRepo\obj\Debug\ChallengeClaimsTwoREPO.csproj.AssemblyReference.cache
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsRepo\obj\Debug\ChallengeClaimsTwoREPO.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsRepo\obj\Debug\ChallengeClaimsTwoRepo.dll
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsRepo\obj\Debug\ChallengeClaimsTwoRepo.pdb

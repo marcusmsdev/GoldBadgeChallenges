@@ -1,0 +1,15 @@
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\ChallengeCafe.exe.config
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\ChallengeCafe.exe
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\ChallengeCafe.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\CafeOneRepo.dll
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\ChallengeBadgesThree.exe
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\ChallengeBadgesThreeREPO.dll
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\ChallengeBadgesThree.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\ChallengeBadgesThree.exe.config
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\CafeOneRepo.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\bin\Debug\ChallengeBadgesThreeREPO.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\obj\Debug\Cafe.UI.csproj.AssemblyReference.cache
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\obj\Debug\Cafe.UI.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\obj\Debug\Cafe.UI.csproj.CopyComplete
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\obj\Debug\ChallengeCafe.exe
+C:\Users\13173\Desktop\Application-Challenges-master\CafeMain\obj\Debug\ChallengeCafe.pdb

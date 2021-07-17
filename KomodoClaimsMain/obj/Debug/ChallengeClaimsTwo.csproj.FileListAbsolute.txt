@@ -1,0 +1,10 @@
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\bin\Debug\ChallengeCafetwo.exe.config
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\bin\Debug\ChallengeCafetwo.exe
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\bin\Debug\ChallengeCafetwo.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\bin\Debug\ChallengeClaimsTwoRepo.dll
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\bin\Debug\ChallengeClaimsTwoRepo.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\obj\Debug\ChallengeClaimsTwo.csproj.AssemblyReference.cache
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\obj\Debug\ChallengeClaimsTwo.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\obj\Debug\ChallengeClaimsTwo.csproj.CopyComplete
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\obj\Debug\ChallengeCafetwo.exe
+C:\Users\13173\Desktop\Application-Challenges-master\KomodoClaimsMain\obj\Debug\ChallengeCafetwo.pdb

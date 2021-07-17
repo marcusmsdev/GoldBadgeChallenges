@@ -1,0 +1,2 @@
+C:\Users\13173\Desktop\Application-Challenges-master\Badges.Models\obj\Debug\Badges.Models.csproj.AssemblyReference.cache
+C:\Users\13173\Desktop\Application-Challenges-master\Badges.Models\obj\Debug\Badges.Models.csproj.CoreCompileInputs.cache

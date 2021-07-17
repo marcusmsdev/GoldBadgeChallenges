@@ -1,0 +1,5 @@
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesREPO\obj\Debug\Badge.Repo.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesREPO\obj\Debug\ChallengeBadgesThreeREPO.dll
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesREPO\obj\Debug\ChallengeBadgesThreeREPO.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesREPO\bin\Debug\ChallengeBadgesThreeREPO.dll
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesREPO\bin\Debug\ChallengeBadgesThreeREPO.pdb

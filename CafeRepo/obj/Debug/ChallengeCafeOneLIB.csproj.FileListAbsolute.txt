@@ -1,0 +1,12 @@
+C:\Users\13173\source\repos\Challenge\CafeOneRepo\obj\Debug\ChallengeCafeOneLIB.csprojAssemblyReference.cache
+C:\Users\13173\source\repos\Challenge\CafeOneRepo\obj\Debug\ChallengeCafeOneLIB.csproj.CoreCompileInputs.cache
+C:\Users\13173\source\repos\Challenge\CafeOneRepo\bin\Debug\CafeOneRepo.dll
+C:\Users\13173\source\repos\Challenge\CafeOneRepo\bin\Debug\CafeOneRepo.pdb
+C:\Users\13173\source\repos\Challenge\CafeOneRepo\obj\Debug\CafeOneRepo.dll
+C:\Users\13173\source\repos\Challenge\CafeOneRepo\obj\Debug\CafeOneRepo.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\CafeOneRepo\bin\Debug\CafeOneRepo.dll
+C:\Users\13173\Desktop\Application-Challenges-master\CafeOneRepo\bin\Debug\CafeOneRepo.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\CafeOneRepo\obj\Debug\ChallengeCafeOneLIB.csproj.AssemblyReference.cache
+C:\Users\13173\Desktop\Application-Challenges-master\CafeOneRepo\obj\Debug\ChallengeCafeOneLIB.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\Application-Challenges-master\CafeOneRepo\obj\Debug\CafeOneRepo.dll
+C:\Users\13173\Desktop\Application-Challenges-master\CafeOneRepo\obj\Debug\CafeOneRepo.pdb

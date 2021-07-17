@@ -1,0 +1,10 @@
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\bin\Debug\ChallengeBadgesThree.exe.config
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\bin\Debug\ChallengeBadgesThree.exe
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\bin\Debug\ChallengeBadgesThree.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\obj\Debug\ChallengeBadgesThree.csproj.AssemblyReference.cache
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\obj\Debug\ChallengeBadgesThree.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\obj\Debug\ChallengeBadgesThree.exe
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\obj\Debug\ChallengeBadgesThree.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\bin\Debug\ChallengeBadgesThreeREPO.dll
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\bin\Debug\ChallengeBadgesThreeREPO.pdb
+C:\Users\13173\Desktop\Application-Challenges-master\BadgesMain\obj\Debug\ChallengeBadgesThree.csproj.CopyComplete
